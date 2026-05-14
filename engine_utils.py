@@ -3,7 +3,7 @@ import os
 import chess
 import chess.engine
 
-ENGINE_PATH = "engine/stockfish.exe"
+ENGINE_PATH = "stockfish.exe"
 
 def get_engine():
 
