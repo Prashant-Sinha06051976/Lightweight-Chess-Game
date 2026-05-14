@@ -1,0 +1,12 @@
+
+venv/
+__pycache__/
+.git/
+engine/
+*.exe
+*.dll
+*.bin
+*.pt
+*.pth
+*.pkl
+*.zip
